@@ -1,0 +1,67 @@
+[
+    {
+        "id": 234,
+        "category": "Misc",
+        "type": "single",
+        "joke": "My parents raised me as an only child, which really annoyed my younger brother."
+    },
+    {
+        "id": 291,
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "Why was the JavaScript developer sad?",
+        "delivery": "Because they didn't Node how to Express themself!"
+    },
+    {
+        "id": 91,
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "What's the difference between an in-law and an outlaw?",
+        "delivery": "An outlaw is wanted."
+    },
+    {
+        "id": 36,
+        "category": "Programming",
+        "type": "single",
+        "joke": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\""
+    },
+    {
+        "id": 125,
+        "category": "Pun",
+        "type": "single",
+        "joke": "I'm reading a book about anti-gravity. It's impossible to put down!"
+    },
+    {
+        "id": 1,
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "How many programmers does it take to screw in a light bulb?",
+        "delivery": "None. It's a hardware problem."
+    },
+    {
+        "id": 33,
+        "category": "Programming",
+        "type": "single",
+        "joke": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary."
+    },
+    {
+        "id": 253,
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "Why do front end developers eat lunch alone?",
+        "delivery": "Because they don't know how to join tables."
+    },
+    {
+        "id": 175,
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "What do you call a witch at the beach?",
+        "delivery": "A Sandwich."
+    },
+    {
+        "id": 5,
+        "category": "Programming",
+        "type": "single",
+        "joke": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\""
+    }
+]
